@@ -37,7 +37,7 @@ export const projects = [
     description:
       "A real-time chat application supporting private and group messaging, with user presence indicators and message history.",
     techStack: ["React", "Node.js", "Socket.IO", "Express", "MongoDB", "Tailwind CSS"],
-    liveLink: "https://easy-talk-navy.vercel.app/",
+    liveLink: "https://easy-talk-navy.vercel.app/login",
     githubLink: "https://github.com/Jitendra1295/Easy-Talk",
     image: "./chat-app-image.png",
   },
